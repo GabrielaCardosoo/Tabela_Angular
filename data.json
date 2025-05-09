@@ -14,11 +14,6 @@
       "id": 3,
       "name": "Arthur Dos Anjos",
       "course": "GTI"
-    },
-    {
-      "id": 6,
-      "name": "Macacalves",
-      "course": "ADS"
     }
   ],
   "courses": [
@@ -47,13 +42,6 @@
       "id": 4,
       "course": "Gestão da Tecnologia da Informação",
       "abbreviation": "GTI",
-      "axis": "Tecnologia",
-      "schedule": "Noturno"
-    },
-    {
-      "id": 6,
-      "course": "neguinho",
-      "abbreviation": "neg",
       "axis": "Tecnologia",
       "schedule": "Noturno"
     }
