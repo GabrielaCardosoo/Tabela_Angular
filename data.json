@@ -1,0 +1,61 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Gabriela da Silva Cardoso",
+      "course": "ADS"
+    },
+    {
+      "id": 2,
+      "name": "Cauã Galvão",
+      "course": "ADM"
+    },
+    {
+      "id": 3,
+      "name": "Arthur Dos Anjos",
+      "course": "GTI"
+    },
+    {
+      "id": 6,
+      "name": "Macacalves",
+      "course": "ADS"
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "course": "Analise e Desenvolvimento de Sistemas",
+      "abbreviation": "ADS",
+      "axis": "Tecnologia",
+      "schedule": "Noturno"
+    },
+    {
+      "id": 2,
+      "course": "Engenharia de Software",
+      "abbreviation": "ES",
+      "axis": "Tecnologia",
+      "schedule": "Matutino"
+    },
+    {
+      "id": 3,
+      "course": "Administração",
+      "abbreviation": "ADM",
+      "axis": "Gestão e Negócios",
+      "schedule": "Vespertino"
+    },
+    {
+      "id": 4,
+      "course": "Gestão da Tecnologia da Informação",
+      "abbreviation": "GTI",
+      "axis": "Tecnologia",
+      "schedule": "Noturno"
+    },
+    {
+      "id": 6,
+      "course": "neguinho",
+      "abbreviation": "neg",
+      "axis": "Tecnologia",
+      "schedule": "Noturno"
+    }
+  ]
+}
